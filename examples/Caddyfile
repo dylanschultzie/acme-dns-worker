@@ -82,6 +82,5 @@ api.example.com {
 #     --manual-cleanup-hook /path/to/certbot-cleanup-hook.sh \
 #     -d app.example.com \
 #     -d api.example.com \
-#     --cert-path /etc/certs/ \
 #     --deploy-hook "caddy reload"
 # ------------------------------------------------------------------
